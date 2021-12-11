@@ -1,4 +1,4 @@
-name: Document
+name: Publish Document
 title:
 username:
 account: rpubs
@@ -6,6 +6,6 @@ server: rpubs.com
 hostUrl: rpubs.com
 appId: https://api.rpubs.com/api/v1/document/846352/1fc9de4b431e42b492e4fbeec2d883de
 bundleId: https://api.rpubs.com/api/v1/document/846352/1fc9de4b431e42b492e4fbeec2d883de
-url: http://rpubs.com/publish/claim/846352/692c87d21c834cd8a15dcffe14b75e71
-when: 1639230891.71869
-lastSyncTime: 1639230891.71869
+url: http://rpubs.com/CarvalhoRMP/846352/edit
+when: 1639231074.64142
+lastSyncTime: 1639231074.64142
